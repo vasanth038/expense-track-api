@@ -15,7 +15,6 @@ A REST API for managing personal expenses built with **Node.js, Express.js, Mong
 * Redis caching
 * Input validation and error handling
 * Swagger / OpenAPI documentation
-* Jest and Supertest testing
 * Docker support
 * Deployment on Render
 
